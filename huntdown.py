@@ -77,8 +77,7 @@ def IP_Track():
 @is_option
 def phoneGW():
     User_phone = input(
-        f"\n {Wh}Enter phone number target {Gr}Ex [+6281xxxxxxxxx] {Wh}: {Gr}")  # INPUT NUMBER PHONE
-    default_region = "ID"  # DEFAULT NEGARA INDONESIA
+        f"\n {Wh}Enter phone number target {Gr}Ex [+852xxxxxxxx] {Wh}: {Gr}")  
 
     parsed_number = phonenumbers.parse(User_phone, default_region)  # VARIABLE PHONENUMBERS
     region_code = phonenumbers.region_code_for_number(parsed_number)
@@ -275,7 +274,7 @@ def run_banner():
     time.sleep(1)
     stderr.writelines(f"""{Wh}
         {Wh}--------------------------------
-        {Wh}| {Gr}HUNT - DOWN - IP ADDRESS {Wh}|
+        {Wh}| {Gr}HUNTDOWN - IP ADDRESS {Wh}|
         {Wh}|       {Gr}@CODE BY KAZELEGENDO      {Wh}|
         {Wh}--------------------------------
    
