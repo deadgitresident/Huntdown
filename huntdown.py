@@ -274,19 +274,11 @@ def run_banner():
     clear()
     time.sleep(1)
     stderr.writelines(f"""{Wh}
-         .-.
-       .'   `.          {Wh}--------------------------------
-       :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-       : o    `.        {Wh}|       {Gr}@CODE BY KAZELEGENDO      {Wh}|
-      :         ``.     {Wh}--------------------------------
-     :             `.
-    :  :         .   `.
-    :   :          ` . `.
-     `.. :            `. ``;
-        `:;             `:'
-           :              `.
-            `.              `.     .
-              `'`'`'`---..,___`;.-'
+        {Wh}--------------------------------
+        {Wh}| {Gr}HUNT - DOWN - IP ADDRESS {Wh}|
+        {Wh}|       {Gr}@CODE BY KAZELEGENDO      {Wh}|
+        {Wh}--------------------------------
+   
         """)
     time.sleep(0.5)
 
