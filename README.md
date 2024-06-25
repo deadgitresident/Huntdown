@@ -10,3 +10,6 @@
 ----------------------------------------------------------------------------------------------
 # Contributions
 - Any issues just submit pull requests or open an issue , thank you
+
+# Special thanks 
+- Credits and inspired by rightful owner of similar tools
