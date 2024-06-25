@@ -6,7 +6,7 @@
 # How to use  (Using source code editor on PC such as VS code)
 - For emulator on PC , you need to get your python and modules installed
 - Please run the file in non-debugging mode
-- follow the instructions given in the file
+- follow the instructions given in the file of huntdown.py
 ----------------------------------------------------------------------------------------------
 # Contributions
 - Any issues just submit pull requests or open an issue , thank you
